@@ -1,2 +1,4 @@
 # hello-world
-тест
+обучение
+My name is Violetta
+I'm 24
